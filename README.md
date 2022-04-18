@@ -1,4 +1,4 @@
 - hi
 - haha
-- you are reading de README.md
+- you are reading this README.md
 - 
